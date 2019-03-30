@@ -29,10 +29,10 @@ var resetAndStart = function () {
         // Type in the images
         var image = $("<img src>")
         
-        crystal.append('<img src="../Asset/diamond.jpg"></img>',
-         '<img src="../Asset/emerald.jpg"></img>',
-          '<img src="../Asset/ruby.jpg"></img>', 
-          '<img src="../Asset/sapphire.png"></img>')
+        crystal.append('<img src="../Space-Crystal/diamond.jpg"></img>',
+         '<img src="../Space-Crystal/emerald.jpg"></img>',
+          '<img src="../Space-Crystal/ruby.jpg"></img>', 
+          '<img src="../Space-Crystal/sapphire.png"></img>')
     
         
         $(".crystals").append(crystal);
